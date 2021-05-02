@@ -36,7 +36,7 @@ erstellen einer variable
 
 Datentyp variablenName = wert;
 
-parameter sind optional
+parameter sind optional\
 modifier Datentyp nameDerEigenschaft(parameter)
 {
 }
