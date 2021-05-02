@@ -18,10 +18,9 @@ Aufbau ist folgender:
 modifier nameDerEigenschaft: Datentyp
 
 modifier sind "+ - #"\
-\+ kann von ueberall zugegriffen werden\
-\- kann nur von innerhalb der Klasse zugegriffen werden.\
-\# Nur erbende Klassen koennen auf diese Eigenschaft oder Funktion zugreifen
-
+\+ bzw. public kann von ueberall zugegriffen werden\
+\- bzw. private kann nur von innerhalb der Klasse zugegriffen werden.\
+\# bzw. protected kann nur von der Klasse selbst oder erbenden Klassen zugegriffen werden 
 
     AUTO
 -------------
@@ -39,3 +38,8 @@ Datentyp variablenName = wert;
 modifier Datentyp nameDerEigenschaft(parameter)
 {
 }
+
+Die Funktion setFarbe wird so dargestellt\
++ setFarbe(string) : void
+
+public
