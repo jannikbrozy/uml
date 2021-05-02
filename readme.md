@@ -1,10 +1,10 @@
 # Klassendiagramme
 
-Ein Klassendiagramm zeigt den Aufbau einer Entitaet.
+Ein Klassendiagramm zeigt den Aufbau einer Entitaet.\
 Diese besteht aus Eigenschaften und Funktionen.
 
-Bsp. Auto
-Das Auto hat eine Farbe wie Blau oder Rot, eine Anzahl an Sitzen usw.
+Bsp. Auto\
+Das Auto hat eine Farbe wie Blau oder Rot, eine Anzahl an Sitzen usw.\
 Ein Auto kann gestartet und gestoppt werden.
 
 Als Klassendiagramm wuerde das Auto so dargestellt werden.
