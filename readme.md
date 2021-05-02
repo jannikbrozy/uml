@@ -74,6 +74,7 @@ Zugriff auf die Eigenschaften und Funktion der Klasse
 Zugriff auf die Eigenschaften, Funktion der Klasse und
 der in der Funktion uebergebenen Parameter
 
+```csharp
 public class Auto
 {
     private string farbe;
@@ -112,4 +113,4 @@ public class Auto
         // aus dem funktion-scope gesetzt werden
         this.farbe = farbe;
     }
-}
+}```
