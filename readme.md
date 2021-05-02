@@ -43,6 +43,7 @@ modifier Datentyp nameDerEigenschaft(parameter)
  
 Die Funktion setFarbe wird so dargestellt\
 + setFarbe(string) : void
+```csharp
 
 public void setFarbe(string farbe)
 {
@@ -60,7 +61,7 @@ public string getFarbe()
     // this wird hier eigentlich nicht benoetigt
     return this.farbe;
 }
-
+```
 
 # Scopes einer Klasse
 Es gibt 2 Arten von Scopes (Es gibt noch mehr, aber die muessen hier nicht erklaert werden)
