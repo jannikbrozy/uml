@@ -116,3 +116,31 @@ public class Auto
     }
 }
 ```
+```csharp
+// Eine Instanz einer abstrakten Klasse
+// kann nicht erstellt werden
+
+public abstract class Fahrzeug
+{
+    
+)
+public class Auto : Fahrzeug
+{
+    private string farbe;
+    private int anzahlSitze;
+
+    public Auto(string farbe)
+    {
+    }
+
+    public string getFarbe()
+    {
+        return this.farbe;
+    }
+
+    public void setFarbe(string farbe)
+    {
+        this.farbe = farbe;
+    }
+}
+```
