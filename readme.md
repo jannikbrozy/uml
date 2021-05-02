@@ -24,11 +24,11 @@ modifier sind "+ - #"\
 
     AUTO
 -------------
-"-" farbe: string
-"-" anzahlSitze: int
+\- farbe: string
+\- anzahlSitze: int
 -------------
-"+" setFarbe(string) : void
-"+" getFarbe() : string
+\+ setFarbe(string) : void
+\+ getFarbe() : string
 
 ## Generieren des Pseudocodes
 
