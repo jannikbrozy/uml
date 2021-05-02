@@ -17,7 +17,7 @@ Aufbau ist folgender:
 
 modifier nameDerEigenschaft: Datentyp
 
-modifier sind + - # \n
+modifier sind "+ - #"
 "+" kann von ueberall zugegriffen werden
 "-" kann nur von innerhalb der Klasse zugegriffen werden.
 "#" Nur erbende Klassen koennen auf dieser Eigenschaft oder Funktion zugreifen. 
