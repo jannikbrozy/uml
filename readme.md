@@ -20,7 +20,7 @@ modifier nameDerEigenschaft: Datentyp
 modifier sind "+ - #"\
 \+ kann von ueberall zugegriffen werden\
 \- kann nur von innerhalb der Klasse zugegriffen werden.\
-\# Nur erbende Klassen koennen auf diese Eigenschaft oder Funktion zugreifen.\
+\# Nur erbende Klassen koennen auf diese Eigenschaft oder Funktion zugreifen
 
 
     AUTO
